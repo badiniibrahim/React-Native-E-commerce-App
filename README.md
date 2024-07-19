@@ -5,8 +5,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 # Screenshot
 
 ![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
 
 ## Get started
 
